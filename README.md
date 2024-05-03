@@ -1,2 +1,3 @@
-# jugal
-New Portfolio 
+# Jugal
+
+This is my updated portfolio 
